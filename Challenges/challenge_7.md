@@ -7,3 +7,7 @@ So refer to [this guide](https://www.freecodecamp.org/news/git-squash-explained/
 
 Task: 
 1. Using the interactive mode of Git Rebase command combine the multiple commits created in your Pull requests and then push that to the Pull request you have created in the previous challenges. 
+
+
+squashing the git commands
+   -squashing means :combining multiple commits into a single one.
